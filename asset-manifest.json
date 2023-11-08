@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Assignment-Employee/static/css/main.17f5a451.css",
+    "main.js": "/Assignment-Employee/static/js/main.15406e93.js",
+    "static/media/new.jpg": "/Assignment-Employee/static/media/new.a788ac9d7375b9c86ab1.jpg",
+    "index.html": "/Assignment-Employee/index.html",
+    "main.17f5a451.css.map": "/Assignment-Employee/static/css/main.17f5a451.css.map",
+    "main.15406e93.js.map": "/Assignment-Employee/static/js/main.15406e93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17f5a451.css",
+    "static/js/main.15406e93.js"
+  ]
+}
